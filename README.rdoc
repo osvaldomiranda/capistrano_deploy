@@ -60,6 +60,8 @@ So when we say "In the VPS, execute: " then you must connect to the server by us
 
 [Step 8) Install ruby]
   In the VPS, execute:
+
+  <code>apt-get install -y libreadline-dev<code>
   
   <code>rbenv install 2.2.2</code>
   
